@@ -2,7 +2,7 @@ export const games = {
     roundOf16: {
         game1: 'Uruguay',
         game2: 'France',
-        game3: '',
+        game3: 'Brazil',
         game4: '',
         game5: 'Russia',
         game6: 'Croatia',

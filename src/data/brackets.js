@@ -45,7 +45,7 @@ export const brackets = {
             game4: 'England',
         },
         semiFinals: {
-            game1: 'Portucal',
+            game1: 'Portugal',
             game2: 'England',
         },
         finals: {
@@ -141,24 +141,24 @@ export const brackets = {
     },
     Kent: {
         roundOf16: {
-            game1: 'Uruguay',
+            game1: 'Portugal',
             game2: 'France',
-            game3: 'Brazil',
+            game3: 'Mexico',
             game4: 'Belgium',
-            game5: 'Russia',
-            game6: 'Croatia',
-            game7: 'Switzerland',
+            game5: 'Spain',
+            game6: 'Denmark',
+            game7: 'Sweden',
             game8: 'England',
         },
         quarterFinals: {
-            game1: 'Uruguay',
+            game1: 'Portugal',
             game2: 'Belgium',
-            game3: 'Croatia',
+            game3: 'Spain',
             game4: 'England',
         },
         semiFinals: {
             game1: 'Belgium',
-            game2: 'Croatia',
+            game2: 'Spain',
         },
         finals: {
             winner: 'Belgium',

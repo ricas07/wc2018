@@ -1,0 +1,12 @@
+.card {
+  display:flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0 25px;
+  margin: 25px 12.5px;
+  font-size: 1.5em;
+}
+
+.cell {
+  width: 170px;
+}

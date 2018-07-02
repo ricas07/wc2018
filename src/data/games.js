@@ -3,7 +3,7 @@ export const games = {
         game1: 'Uruguay',
         game2: 'France',
         game3: 'Brazil',
-        game4: '',
+        game4: 'Belgium',
         game5: 'Russia',
         game6: 'Croatia',
         game7: '',

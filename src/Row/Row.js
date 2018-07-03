@@ -72,7 +72,8 @@ const Row = (name) => {
                 {thirdPlace}
             </div>
             <div className='cell'>
-                {championship}
+                {championship} <br/>
+                {bracket.finals.winner}
             </div>
             <div className='cell'>
                 {total}

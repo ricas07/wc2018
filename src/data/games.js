@@ -6,7 +6,7 @@ export const games = {
         game4: 'Belgium',
         game5: 'Russia',
         game6: 'Croatia',
-        game7: '',
+        game7: 'Sweden',
         game8: '',
     },
     quarerFinals: {

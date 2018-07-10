@@ -16,7 +16,7 @@ export const games = {
         game4: 'England',
     },
     semiFinals: {
-        game1: '',
+        game1: 'France',
         game2: '',
     },
     finals: {

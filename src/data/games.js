@@ -10,10 +10,10 @@ export const games = {
         game8: 'England',
     },
     quarerFinals: {
-        game1: '',
-        game2: '',
-        game3: '',
-        game4: '',
+        game1: 'France',
+        game2: 'Belgium',
+        game3: 'Croatia',
+        game4: 'England',
     },
     semiFinals: {
         game1: '',

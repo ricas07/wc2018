@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import Header from './Header/Header';
 import Row from './Row/Row';
+import Picks from './picks/Picks';
 import './App.css';
 
 class App extends Component {
@@ -22,6 +23,7 @@ class App extends Component {
           <Row name='Shellie' />
           <Row name='Sterling' />
         </div>
+        <Picks />
       </div>
     );
   }

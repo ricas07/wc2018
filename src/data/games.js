@@ -17,7 +17,7 @@ export const games = {
     },
     semiFinals: {
         game1: 'France',
-        game2: '',
+        game2: 'Croatia',
     },
     finals: {
         winner: '',
